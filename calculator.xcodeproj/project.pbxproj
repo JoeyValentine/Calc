@@ -14,6 +14,7 @@
 		D4CF351C2250EBA100469D47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CF351A2250EBA100469D47 /* LaunchScreen.storyboard */; };
 		D4CF35272250EBA200469D47 /* calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF35262250EBA200469D47 /* calculatorTests.swift */; };
 		D4CF35322250EBA200469D47 /* calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF35312250EBA200469D47 /* calculatorUITests.swift */; };
+		D4CF354022510CCA00469D47 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D4CF353F22510CCA00469D47 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D4CF352D2250EBA200469D47 /* calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CF35312250EBA200469D47 /* calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculatorUITests.swift; sourceTree = "<group>"; };
 		D4CF35332250EBA200469D47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4CF353F22510CCA00469D47 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D4CF35052250EBA000469D47 = {
 			isa = PBXGroup;
 			children = (
+				D4CF353F22510CCA00469D47 /* .gitignore */,
 				D4CF35102250EBA000469D47 /* calculator */,
 				D4CF35252250EBA200469D47 /* calculatorTests */,
 				D4CF35302250EBA200469D47 /* calculatorUITests */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4CF354022510CCA00469D47 /* .gitignore in Resources */,
 				D4CF351C2250EBA100469D47 /* LaunchScreen.storyboard in Resources */,
 				D4CF35192250EBA100469D47 /* Assets.xcassets in Resources */,
 				D4CF35172250EBA000469D47 /* Main.storyboard in Resources */,
